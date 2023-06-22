@@ -31,7 +31,12 @@ D((D)) --> B
 D --> C
 ```
 
-Simbol dibebaskan kepada mahasiswa 2. Bahasa pemograman menggunakan golang. 3. Diperbolehkan menggunakan library untuk pengolahan adjacency matriks, tetapi tidak diperboleh pada implementasi tarjans algorithm. 4. Program menampilkan runtime program, semua graf scc beserta bridge-nya. 5. Pastikan penelusuran menggunakan DFS dan algoritma dari Tarjan boleh dimodifikasi.
+Simbol dibebaskan kepada mahasiswa
+
+2. Bahasa pemograman menggunakan golang.
+3. Diperbolehkan menggunakan library untuk pengolahan adjacency matriks, tetapi tidak diperboleh pada implementasi tarjans algorithm.
+4. Program menampilkan runtime program, semua graf scc beserta bridge-nya.
+5. Pastikan penelusuran menggunakan DFS dan algoritma dari Tarjan boleh dimodifikasi.
 
 ### Spesifikasi Teknis (500 poin)
 
