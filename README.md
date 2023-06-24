@@ -8,7 +8,7 @@ Strongly Connected Components merupakan graf atau bagian dari graf berarh yang s
 
 Praktikal dari Strongly Connected Component dapat digunakan pada situs _social networking_ untuk menggambarkan kumpulan orang yang berteman atau memiliki kesamaan minat. Sedangkan bridges memiliki kemanfaatan untuk melihat jaringan atau hubungan yang dianggap kritikal.
 
-Pada tugas ini, kalian diminta untuk membuat sebuah program yang mangaplikasikan algoritma Tarjans untuk mencari SCC dari sebuah graf berarah dan bridges dari graf berarah tersebut. Khusus pencarian bridges, diasumsikan graf adalah undirected graf.
+Pada tugas ini, kalian diminta untuk membuat sebuah program yang mengaplikasikan algoritma Tarjans untuk mencari SCC dari sebuah graf berarah dan bridges dari graf berarah tersebut. Khusus pencarian bridges, diasumsikan graf adalah undirected graf.
 
 ## Spesifikasi Wajib (1500 Poin)
 
@@ -102,6 +102,6 @@ Tulis sebuah README dalam repository mahasiswa yang berisikan:
 
 ## Pengerjaan dan Pengumpulan
 
-1. Buatlah repository pada github masing-masing dan invite `yoshbeside` dalam repository tersebut
+1. Buatlah repository pada github masing-masing dan invite `yoshibeside` dalam repository tersebut
 2. Jika ada pertanyaan silahkan LINE ke `angelica_winasta`
-3. Pengumpulan dilakukan dengan membuat tag release pada github
+3. Pengumpulan dilakukan lewat web dengan link Tag/Release github
