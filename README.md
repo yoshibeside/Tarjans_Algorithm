@@ -105,3 +105,4 @@ Tulis sebuah README dalam repository mahasiswa yang berisikan:
 1. Buatlah repository pada github masing-masing dan invite `yoshibeside` dalam repository tersebut
 2. Jika ada pertanyaan silahkan LINE ke `angelica_winasta`
 3. Pengumpulan dilakukan lewat web dengan link Tag/Release github
+4. Untuk demo, silakan kontak langsung lewat line
